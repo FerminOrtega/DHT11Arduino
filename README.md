@@ -36,5 +36,8 @@ Como ya hemos comentado antes, ya hemos mecionado que gracias a I2C reducimos la
 ## Esquema
 Si combinamos todos los sensores con la placa de arduino, nos tendría que quedar algo así.
 
+![alt text](https://raw.githubusercontent.com/FerminOrtega/DTH11Arduino/master/DTH11.png)
 
 
+## Hora de programar!
+Se adjunta en el proyecto dos ficheros, uno es el I2C scaner para detectar la pantalla y otro es el codigo con el sensor DHT11
