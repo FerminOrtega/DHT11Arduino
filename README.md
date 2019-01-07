@@ -41,3 +41,10 @@ Si combinamos todos los sensores con la placa de arduino, nos tendría que queda
 
 ## Hora de programar!
 Se adjunta en el proyecto dos ficheros, uno es el [I2C Scanner](https://github.com/FerminOrtega/DTH11Arduino/blob/master/i2c_scanner.ino) para detectar la pantalla y otro es el codigo con el sensor [DHT11 con Pantalla LCD](https://github.com/FerminOrtega/DTH11Arduino/blob/master/DHT11_LCD.ino)
+
+## Resultado final
+Una vez que hemos realizado todos los pasos tendremos la informacion sobre la temperatura y la humedad que hay donde se encuentre el sensor.
+
+![alt text](https://raw.githubusercontent.com/FerminOrtega/DTH11Arduino/master/IMG_0511.png)
+![alt text](https://raw.githubusercontent.com/FerminOrtega/DTH11Arduino/master/IMG_0514.png)
+
